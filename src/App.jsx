@@ -1,4 +1,4 @@
-import { useState, useReducer } from 'react'; // Importando useEffect
+import { useReducer } from 'react'; // Importando useEffect
 import './App.css';
 
 function reducer(state, action){
